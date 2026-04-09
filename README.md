@@ -15,11 +15,17 @@
 ---
 
 ## ⚙️ Tech Stack
-**Languages:** Python, C++, Java, JavaScript  
+**Languages:** Python, Java  
 **Core Concepts:** Data Structures, OOP, DBMS, Operating Systems  
-**Tools:** Git, GitHub, VS Code, Google Colab, Kaggle  
-**AI/ML:** NumPy, Pandas, Scikit-learn  
 
+**Tools:**  
+Git, GitHub, VS Code, Google Colab, Kaggle  
+
+**Data Analysis:**  
+NumPy, Pandas, Matplotlib, Seaborn  
+
+**AI/ML & LLMs:**  
+Scikit-learn, Data Preprocessing, Model Training, LLM Fine-tuning, RLHF 
 ---
 
 ## 💼 Experience
